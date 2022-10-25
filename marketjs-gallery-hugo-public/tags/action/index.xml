@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Action on MarketJS Game Gallery</title>
-    <link>ttps://andrian-alfarabi-impact360.github.io/public-hugo-gallery/tags/action/</link>
+    <link>https://andrian-alfarabi-impact360.github.io/marketjs-gallery-hugo-public/tags/action/</link>
     <description>Recent content in Action on MarketJS Game Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Oct 2022 21:55:11 +0700</lastBuildDate><atom:link href="ttps://andrian-alfarabi-impact360.github.io/public-hugo-gallery/tags/action/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Oct 2022 21:55:11 +0700</lastBuildDate><atom:link href="https://andrian-alfarabi-impact360.github.io/marketjs-gallery-hugo-public/tags/action/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alpha Space Invasion</title>
-      <link>ttps://andrian-alfarabi-impact360.github.io/public-hugo-gallery/games/alpha-space-invasion/</link>
+      <link>https://andrian-alfarabi-impact360.github.io/marketjs-gallery-hugo-public/games/alpha-space-invasion/</link>
       <pubDate>Mon, 24 Oct 2022 21:55:11 +0700</pubDate>
       
-      <guid>ttps://andrian-alfarabi-impact360.github.io/public-hugo-gallery/games/alpha-space-invasion/</guid>
+      <guid>https://andrian-alfarabi-impact360.github.io/marketjs-gallery-hugo-public/games/alpha-space-invasion/</guid>
       <description>Alpha sector is under invasion. Young pilot, your task is simple. Warp into the sector, and destroy enemy spacecraft before they destroy you.
 Avoid the asteroids and keep your shields high. Rake up as many hits as you can!
 Features:  Interactive tutorial Simple controls (keyboard on desktop, touch controls on mobile) Endless gameplay Fans of sci-fi movies such as Star Wars, Star Trek, Battlestar Galactica and Guardians of the Galaxy will - love this game.</description>
@@ -20,10 +20,10 @@ Features:  Interactive tutorial Simple controls (keyboard on desktop, touch cont
     
     <item>
       <title>Ultimate Baseball</title>
-      <link>ttps://andrian-alfarabi-impact360.github.io/public-hugo-gallery/games/ultimate-baseball/</link>
+      <link>https://andrian-alfarabi-impact360.github.io/marketjs-gallery-hugo-public/games/ultimate-baseball/</link>
       <pubDate>Mon, 24 Oct 2022 21:08:08 +0700</pubDate>
       
-      <guid>ttps://andrian-alfarabi-impact360.github.io/public-hugo-gallery/games/ultimate-baseball/</guid>
+      <guid>https://andrian-alfarabi-impact360.github.io/marketjs-gallery-hugo-public/games/ultimate-baseball/</guid>
       <description>Swing high, middle or low to hit the ball. Find your sweet spot and perfect timing. Hit correctly and score a baseball home run!
 A simple arcade style baseball game for the fans.
 Features:  Simple controls to hit high, medium or low Baseball stadium theme, great for brand exposure The game gets more challenging as you score more home runs! Possibility of integrating a high score leaderboard to compete with other players.</description>

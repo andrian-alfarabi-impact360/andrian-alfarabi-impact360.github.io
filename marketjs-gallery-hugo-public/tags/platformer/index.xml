@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Platformer on MarketJS Game Gallery</title>
-    <link>ttps://andrian-alfarabi-impact360.github.io/public-hugo-gallery/tags/platformer/</link>
+    <link>https://andrian-alfarabi-impact360.github.io/marketjs-gallery-hugo-public/tags/platformer/</link>
     <description>Recent content in Platformer on MarketJS Game Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Oct 2022 09:40:30 +0700</lastBuildDate><atom:link href="ttps://andrian-alfarabi-impact360.github.io/public-hugo-gallery/tags/platformer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Oct 2022 09:40:30 +0700</lastBuildDate><atom:link href="https://andrian-alfarabi-impact360.github.io/marketjs-gallery-hugo-public/tags/platformer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dinosaur Run</title>
-      <link>ttps://andrian-alfarabi-impact360.github.io/public-hugo-gallery/games/dinosaur-run/</link>
+      <link>https://andrian-alfarabi-impact360.github.io/marketjs-gallery-hugo-public/games/dinosaur-run/</link>
       <pubDate>Tue, 25 Oct 2022 09:40:30 +0700</pubDate>
       
-      <guid>ttps://andrian-alfarabi-impact360.github.io/public-hugo-gallery/games/dinosaur-run/</guid>
+      <guid>https://andrian-alfarabi-impact360.github.io/marketjs-gallery-hugo-public/games/dinosaur-run/</guid>
       <description>Play a cute and lovable T-Rex running across a desert.
 Time your dino jumps to avoid the different obstacles.
 How high can you score?
@@ -21,10 +21,10 @@ Features:  Cool pixel artwork with T Rex dinosaur. Classic grayscale theme set i
     
     <item>
       <title>Oil Hunt</title>
-      <link>ttps://andrian-alfarabi-impact360.github.io/public-hugo-gallery/games/oil-hunt/</link>
+      <link>https://andrian-alfarabi-impact360.github.io/marketjs-gallery-hugo-public/games/oil-hunt/</link>
       <pubDate>Tue, 25 Oct 2022 09:33:19 +0700</pubDate>
       
-      <guid>ttps://andrian-alfarabi-impact360.github.io/public-hugo-gallery/games/oil-hunt/</guid>
+      <guid>https://andrian-alfarabi-impact360.github.io/marketjs-gallery-hugo-public/games/oil-hunt/</guid>
       <description>Stretch out a pipe in order to strike oil.
 Hit it big as you guide oil-hungry heroes and monsters in a mystical wasteland! Aim for the highest score, and unlock funny characters!
 Explore different lands - from long stretching savannas, to green hills, sandy beaches and dark marshes - you’ll be surprised at all the places you’ll find where you can just stick a pipe and watch as tons of fantastic tasty dark stuff spill out!</description>
