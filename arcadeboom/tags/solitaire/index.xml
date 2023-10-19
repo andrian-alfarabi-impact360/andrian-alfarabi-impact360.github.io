@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solitaire on ArcadeBoom</title>
+    <link>https://andrian-alfarabi-impact360.github.io/arcadeboom/tags/solitaire/</link>
+    <description>Recent content in Solitaire on ArcadeBoom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Oct 2021 13:37:04 +0800</lastBuildDate><atom:link href="https://andrian-alfarabi-impact360.github.io/arcadeboom/tags/solitaire/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classic Solitaire</title>
+      <link>https://andrian-alfarabi-impact360.github.io/arcadeboom/games/classic-solitaire/</link>
+      <pubDate>Thu, 28 Oct 2021 13:37:04 +0800</pubDate>
+      
+      <guid>https://andrian-alfarabi-impact360.github.io/arcadeboom/games/classic-solitaire/</guid>
+      <description>Build suit piles in ascending order, from Ace to King.
+Re-arrange face-up cards in descending order and alternating colors.
+Features: tutorial beautiful graphics hours of repetitive gameplay relaxed theme and music undo function </description>
+    </item>
+    
+    <item>
+      <title>Spider Solitaire</title>
+      <link>https://andrian-alfarabi-impact360.github.io/arcadeboom/games/spider-solitaire/</link>
+      <pubDate>Thu, 28 Oct 2021 13:36:45 +0800</pubDate>
+      
+      <guid>https://andrian-alfarabi-impact360.github.io/arcadeboom/games/spider-solitaire/</guid>
+      <description>Spider themed solitaire game. You&amp;rsquo;ll definitely get addicted
+Features: stunning spider theme tutorial feeling stuck? Use our hints system hours of repetitive gameplay. Each deck is randomly generated. </description>
+    </item>
+    
+  </channel>
+</rss>

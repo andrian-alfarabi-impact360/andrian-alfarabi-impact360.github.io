@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mahjong on ArcadeBoom</title>
+    <link>https://andrian-alfarabi-impact360.github.io/arcadeboom/tags/mahjong/</link>
+    <description>Recent content in Mahjong on ArcadeBoom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Oct 2021 13:36:57 +0800</lastBuildDate><atom:link href="https://andrian-alfarabi-impact360.github.io/arcadeboom/tags/mahjong/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chinese New Year Mahjong</title>
+      <link>https://andrian-alfarabi-impact360.github.io/arcadeboom/games/cny-mahjong/</link>
+      <pubDate>Thu, 28 Oct 2021 13:36:57 +0800</pubDate>
+      
+      <guid>https://andrian-alfarabi-impact360.github.io/arcadeboom/games/cny-mahjong/</guid>
+      <description>Match chinese mahjong tiles to complete the levels.
+Features: beautiful chinese inspired art interactive tutorial extremely simple and addictive gameplay easy to start, hard to master fun chinese / asian theme, coupled with mahjong matching elements power ups to reward the user, such as auto solve bonuses </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math on ArcadeBoom</title>
+    <link>https://andrian-alfarabi-impact360.github.io/arcadeboom/tags/math/</link>
+    <description>Recent content in Math on ArcadeBoom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Oct 2021 13:36:55 +0800</lastBuildDate><atom:link href="https://andrian-alfarabi-impact360.github.io/arcadeboom/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cash Back</title>
+      <link>https://andrian-alfarabi-impact360.github.io/arcadeboom/games/cash-back/</link>
+      <pubDate>Thu, 28 Oct 2021 13:36:55 +0800</pubDate>
+      
+      <guid>https://andrian-alfarabi-impact360.github.io/arcadeboom/games/cash-back/</guid>
+      <description>Calculate and return the correct change to customers. Return a combination of dollar notes and coins to customers who purchase items from your store.
+Score correctly and generate sales for your store!
+Features: Interactive tutorial Hints system 3 difficulty modes Happy theme suitable for young kids </description>
+    </item>
+    
+    <item>
+      <title>Numbers Challenge</title>
+      <link>https://andrian-alfarabi-impact360.github.io/arcadeboom/games/numbers-challenge/</link>
+      <pubDate>Thu, 28 Oct 2021 13:35:44 +0800</pubDate>
+      
+      <guid>https://andrian-alfarabi-impact360.github.io/arcadeboom/games/numbers-challenge/</guid>
+      <description>Which side is greater? Left, right or are they equal?
+Numbers Challenge is a new and exciting cognitive math based game.
+Answer 5 questions in a row correctly, to move up the level.
+Miss one, and the game is over at the end of the level.
+Features: Easy to start. The math gets complicated the further you go Peaceful theme, suitable for concentration Tough and tricky questions Accuracy stats for math geeks </description>
+    </item>
+    
+  </channel>
+</rss>

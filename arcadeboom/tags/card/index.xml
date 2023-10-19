@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Card on ArcadeBoom</title>
+    <link>https://andrian-alfarabi-impact360.github.io/arcadeboom/tags/card/</link>
+    <description>Recent content in Card on ArcadeBoom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Oct 2021 13:37:04 +0800</lastBuildDate><atom:link href="https://andrian-alfarabi-impact360.github.io/arcadeboom/tags/card/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classic Solitaire</title>
+      <link>https://andrian-alfarabi-impact360.github.io/arcadeboom/games/classic-solitaire/</link>
+      <pubDate>Thu, 28 Oct 2021 13:37:04 +0800</pubDate>
+      
+      <guid>https://andrian-alfarabi-impact360.github.io/arcadeboom/games/classic-solitaire/</guid>
+      <description>Build suit piles in ascending order, from Ace to King.
+Re-arrange face-up cards in descending order and alternating colors.
+Features: tutorial beautiful graphics hours of repetitive gameplay relaxed theme and music undo function </description>
+    </item>
+    
+    <item>
+      <title>Scratch and Match Animal</title>
+      <link>https://andrian-alfarabi-impact360.github.io/arcadeboom/games/scratch-and-match-animal/</link>
+      <pubDate>Thu, 28 Oct 2021 13:36:56 +0800</pubDate>
+      
+      <guid>https://andrian-alfarabi-impact360.github.io/arcadeboom/games/scratch-and-match-animal/</guid>
+      <description>You have 3 minutes to scratch and match the animal cards. Beat the time and your high score!
+Scratch and match beautifully done cards featuring giraffes, elephants, monkeys, tigers, rabbits, cheetahs, polar bears and elephants.
+Features: Tutorial Intuitive scratching interface Fun and positive vibe for all ages </description>
+    </item>
+    
+    <item>
+      <title>Chuck Chicken Memory Match</title>
+      <link>https://andrian-alfarabi-impact360.github.io/arcadeboom/games/chuck-chicken-memory-match/</link>
+      <pubDate>Thu, 28 Oct 2021 13:36:50 +0800</pubDate>
+      
+      <guid>https://andrian-alfarabi-impact360.github.io/arcadeboom/games/chuck-chicken-memory-match/</guid>
+      <description>From the hit animation series Chuck Chicken, we bring you this exciting memory match game.
+Match your favorite Chuck Chicken cards, and do it in the shortest amount of time!
+Discover cool cards featuring Chuck, Flick, Wing as well as nemesis cards including Dr Mingo, Dee, Don, Dex.
+Features: Interactive tutorial Beautiful Chuck Chicken artwork Simple, crisp gameplay Fast paced action card theme </description>
+    </item>
+    
+    <item>
+      <title>Dominoes</title>
+      <link>https://andrian-alfarabi-impact360.github.io/arcadeboom/games/dominoes/</link>
+      <pubDate>Thu, 28 Oct 2021 13:36:30 +0800</pubDate>
+      
+      <guid>https://andrian-alfarabi-impact360.github.io/arcadeboom/games/dominoes/</guid>
+      <description>Draw dominoes: Every round, match tiles until your opponent is unable to move. If you have no possible moves, draw a domino until you can match a tile. If there are no dominoes left, pass your turn until you can. Reach 100 points to win.
+Block dominoes: The same as Draw Dominoes. The main difference is, if you have no possible moves, pass your turn until you can match a tile.</description>
+    </item>
+    
+  </channel>
+</rss>

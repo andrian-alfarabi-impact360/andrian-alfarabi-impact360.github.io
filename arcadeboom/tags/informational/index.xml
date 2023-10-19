@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Informational on ArcadeBoom</title>
+    <link>https://andrian-alfarabi-impact360.github.io/arcadeboom/tags/informational/</link>
+    <description>Recent content in Informational on ArcadeBoom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Oct 2021 13:36:58 +0800</lastBuildDate><atom:link href="https://andrian-alfarabi-impact360.github.io/arcadeboom/tags/informational/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trivia Quiz</title>
+      <link>https://andrian-alfarabi-impact360.github.io/arcadeboom/games/trivia-quiz/</link>
+      <pubDate>Thu, 28 Oct 2021 13:36:58 +0800</pubDate>
+      
+      <guid>https://andrian-alfarabi-impact360.github.io/arcadeboom/games/trivia-quiz/</guid>
+      <description>Test your general knowledge in this trivia quiz game.
+How many questions can you answer correctly?
+Features: Simple, clean and welcoming theme Easy to configure Trivia Quiz. Let us know what you need, and we&amp;rsquo;ll customize it for you. Question separated into different difficulty levels (easy questions first, followed by more challenging questions) 30 randomly rotated questions per round Over 100 different questions in the pool Fullscreen mode </description>
+    </item>
+    
+  </channel>
+</rss>
